@@ -6,7 +6,7 @@ matplotlib==3.5.1
 
 # Deep learning
 tensorflow==2.13.1
-torch==2.4.1
+torch==2.13.0
 
 # Gaussian process / surrogate modeling
 gpytorch==1.13
@@ -17,7 +17,7 @@ hydra-core==1.2.0
 omegaconf==2.2.1
 
 # Parallelization and utilities
-joblib==1.1.0
+joblib==1.2.0
 cloudpickle==2.2.1
 psutil==5.9.0
 six==1.16.0
